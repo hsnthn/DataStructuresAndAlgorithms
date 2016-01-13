@@ -1,4 +1,4 @@
-package com.hsnthn.koding.linkedList;
+package com.hsnthn.koding.util;
 
 /**
  * Created by hsnthn on 08.01.2016.

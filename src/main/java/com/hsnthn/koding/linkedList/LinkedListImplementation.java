@@ -1,5 +1,7 @@
 package com.hsnthn.koding.linkedList;
 
+import com.hsnthn.koding.util.Node;
+
 /**
  * Created by hsnthn on 08.01.2016.
  */
